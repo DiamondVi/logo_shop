@@ -1574,7 +1574,8 @@ input[type='search']::-webkit-search-results-decoration {
   .brands-slider__arrow {
     position: absolute;
     top: 50%;
-    margin: -15px 0 0 0px; }
+    margin: -15px 0 0 0px;
+z-index: 10;}
     .brands-slider__arrow_prev {
       left: 10px; }
       @media (min-width: 1192px) {
